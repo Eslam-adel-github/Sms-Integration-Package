@@ -1,0 +1,9 @@
+<?php
+return [
+    'sms'=>[
+        'username'  =>  'KBFY75LM',
+        'password'  =>  'AEros3cRYF',
+        'sender'    =>  'Orbscope',
+        "base_url"=>"https://smsmisr.com/api/webapi/"
+    ],
+];
